@@ -1,7 +1,7 @@
 To run the the program you would need to have python and the following packages installed.
 
-langchain
-langchain_chroma
+- langchain
+- langchain_chroma
 
 
 You would also need your OPENAI Key, Copy and paste it in the script provided.
